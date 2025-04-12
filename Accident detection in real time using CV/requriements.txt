@@ -1,0 +1,7 @@
+#  to work with applcation followin requirments needs to be installed:
+
+Works on Windows, MacOS, Linux
+
+Python 3x
+pip install cv2 numpy
+
